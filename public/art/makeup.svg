@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 1050">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#b89089"/><stop offset="1" stop-color="#e8d0c3"/></linearGradient><linearGradient id="metal"><stop stop-color="#f5d9af"/><stop offset=".5" stop-color="#a27558"/><stop offset="1" stop-color="#f9ddb3"/></linearGradient><filter id="sh"><feGaussianBlur stdDeviation="18"/></filter></defs>
+<rect width="780" height="1050" fill="url(#bg)"/><circle cx="688" cy="115" r="270" fill="#f6e8dd" opacity=".27"/>
+<path d="M0 710q300-80 780 100v240H0Z" fill="#c7a79a" opacity=".32"/>
+<ellipse cx="406" cy="810" rx="281" ry="57" fill="#6b343b" opacity=".21" filter="url(#sh)"/>
+<g transform="rotate(-14 332 480)"><rect x="95" y="245" width="480" height="570" rx="28" fill="#432c37"/><rect x="114" y="261" width="444" height="523" rx="22" fill="#32232b"/><rect x="146" y="293" width="382" height="457" rx="13" fill="#f1dbcc"/>
+<g><circle cx="232" cy="391" r="58" fill="#b77e77"/><circle cx="393" cy="391" r="58" fill="#8e5a62"/><circle cx="232" cy="555" r="58" fill="#d8a88e"/><circle cx="393" cy="555" r="58" fill="#764f53"/></g><g fill="none" stroke="#f8e1d2" stroke-width="2"><circle cx="232" cy="391" r="47"/><circle cx="393" cy="391" r="47"/><circle cx="232" cy="555" r="47"/><circle cx="393" cy="555" r="47"/></g><text x="337" y="703" fill="#71404d" font-size="19" letter-spacing="4" text-anchor="middle" font-family="Georgia">ATELIER</text></g>
+<g transform="rotate(27 604 646)"><ellipse cx="625" cy="790" rx="25" ry="170" fill="#55353b" opacity=".12" filter="url(#sh)"/><rect x="590" y="420" width="36" height="412" rx="18" fill="url(#metal)"/><rect x="586" y="390" width="44" height="78" rx="10" fill="#4b2c34"/><path d="M587 402q-22-132 24-172 54 51 18 172Z" fill="#4d3238"/><path d="M603 243q-18 72-4 142" stroke="#8c555b" stroke-width="4" fill="none"/></g>
+<g transform="rotate(-27 615 700)"><rect x="626" y="655" width="71" height="210" rx="10" fill="#3b262e"/><rect x="627" y="636" width="69" height="73" fill="url(#metal)"/><path d="M627 635v-70q0-44 35-49 34 6 34 49v70" fill="#9c4156"/><path d="M633 578v51" stroke="#d77f8f" stroke-width="9" opacity=".55"/></g>
+<g fill="none" stroke="#fff5ec" stroke-width="2" opacity=".7"><path d="M68 137h75M105 100v74"/><circle cx="669" cy="206" r="40"/></g>
+</svg>
